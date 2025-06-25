@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 testing file
+=======
+>>>>>>> e86e24a0710ad7076a46ffe81ca572bdc293efad
 untesting file
 commit test
 456
